@@ -1,0 +1,49 @@
+{
+    "WindowTitles":
+    {
+        "MainWindowTitle": "Time Manager",
+        "BreakTimeMsgW": "Break time!",        
+        "TimeToWorkW": "Time to work!",        
+        "MainGroupBox": "Time tracker",
+        "BreakTimerName": "Break Timer",
+        "HowOftenBoxName": "Working duration",
+        "BreakDurationBoxName": "Maximum inactivity duration",
+        "QuestionTitle": "Time Manager"
+    },
+
+    "WindowDescriptions":
+    {   
+        "BreakTimeMsg": "It is time for a break!",
+        "ResetTimerNotification": "The timer will be reset automatically after you do not work for 5 mins",
+        "TimeToWork": "It is time to work!",
+        "MainGroupBoxDescr": "Time Tracker will calculate the time you spend in different apps",
+        "TodayTracked": "Today tracked:",
+        "ShowOnDate": "Show on date:",
+        "BreakTimerDesc": "Customize Break Timer parameters to enhance productivity",
+        "HowOftenDescr": "Enter the time interval after which you would like to receive a break reminder",
+        "EveryPrefix": "After ", 
+        "EverySuffix" : " min",
+        "BreakDurationDescr": "If there is no computer activity within this time interval, the Timer will restart the countdown",
+        "BrealDurationPrefix": "After ", 
+        "BreakDurationSuffix": " min",
+        "FinishBreakAlarm": "Alarm when break ends",
+        "QuestionTitleDescr": "Do you want to reset Timer and start again?",
+        "AppNameHeader": "Application Name",
+        "ActiveHeader": "Active Time",
+        "NonActiveHeader": "Non Active Time",
+        "StopAlarmToolQuestion": "Do you want to switch off the Timer?",
+        "StopMainToolQuestion": "Do you want to switch off this tool? Timer will be reset."
+    },
+
+    "Buttons":
+    {
+        "AlarmNotify3mins": "Notify in {0} min", 
+        "OKbutton": "OK", 
+        "ResetButton": "Reset",
+        "OnToggle": "On",
+        "OffToggle": "Off"
+
+    }
+
+
+}
