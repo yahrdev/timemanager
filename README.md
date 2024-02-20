@@ -41,6 +41,6 @@ Supported Operating Systems: Windows
 
 ## Usage
 
-1. Run the program by executing the `timemanager.py` file.
+1. Run the program by executing the `src\timemanager.py` file.
 2. Use the tabs for time tracking and setting break reminders.
 3. Enjoy your enhanced productivity!
