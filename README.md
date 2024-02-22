@@ -13,7 +13,7 @@ The first tab (Main) shows a diagram of the tracked apps and a table with the de
 <img src="pics/pic1.png" width="700">
 <img src="pics/pic2.png" width="700">
 
-The second tab (Notifications) is dedicated to the Break Alarm:
+The second tab (Notifications) is dedicated to the Break Timer:
 
 <img src="pics/pic3.png" width="700">
 
