@@ -10,12 +10,12 @@ This project was created to track the time spent in different PC apps. The progr
 
 The first tab (Main) shows a diagram of the tracked apps and a table with the detailed list of apps:
 
-pics/pic1.png
-pics/pic2.png
+<img src="pics/pic1.png" width="700">
+<img src="pics/pic2.png" width="700">
 
 The second tab (Notifications) is dedicated to the Break Alarm:
 
-pics/pic3.png
+<img src="pics/pic3.png" width="700">
 
 You can set up the time after which the application will notify you to have a break. However, the Timer tracks your activity in real-time: if you are not working on the computer for 3 minutes (you can also set up this time), the Timer resets. When you start working on the computer again, the Timer will automatically start from the beginning.
 
