@@ -19,7 +19,11 @@ The second tab (Notifications) is dedicated to the Break Timer:
 
 You can set up the time after which the application will notify you to have a break. However, the Timer tracks your activity in real-time: if you are not working on the computer for 3 minutes (you can also set up this time), the Timer resets. When you start working on the computer again, the Timer will automatically start from the beginning.
 
-In the break alarm window, you can choose to postpone the notification for 3 minutes or click OK. OK means that the app gives you 1 min to stop working. If you don’t do this, the Timer starts again. 
+In the break alarm window, you can choose to postpone the notification for 3 minutes or click OK. OK means that the app gives you 1 min to stop working:
+
+<img src="pics/pic4.png" width="700">
+
+If you don’t do this, the Timer starts again
 
 The app can be rolled up to the tray so it will not bother you. 
 
